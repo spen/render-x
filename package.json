@@ -1,5 +1,6 @@
 {
-  "name": "render-xx",
+  "name": "render-x",
+  "homepage" : "http://spen.github.io/render-x",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
